@@ -1,7 +1,7 @@
 {
   "name": "phaser-link",
   "version": "1.0.0",
-  "description": "",
+  "description": "Link-like (Legend of Zelda) class for Phaser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/SaFrMo/phaser-link.git"
   },
-  "keywords": [],
+  "keywords": ["phaser", "game"],
   "author": "",
   "license": "ISC",
   "bugs": {
