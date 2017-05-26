@@ -1,5 +1,5 @@
 ## What
-This is part of the Phaser Component Library.
+This is part of the [Phaser Component Library](https://github.com/SaFrMo/phaser-component-library).
 
 A "link" is a player-controlled character than can move on the X and Y axes. It is not affected by gravity, has a given amount of health, uses arrow keys to move, and does not bind the camera to its movement. Based on Link from the Legend of Zelda games.
 
